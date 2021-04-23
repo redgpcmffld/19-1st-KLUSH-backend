@@ -60,6 +60,9 @@
 - AWS EC2에 가상환경 구축하여 프로젝트 배포
 - AWS RDS에 데이터베이스 구축
 
+## API Documantation
+- https://documenter.getpostman.com/view/15442239/TzJvfHg4
+
 ## References
 - 이 프로젝트는 [러쉬 코리아](https://lush.co.kr/main/index.php)를 참고하여 학습목적으로 만들었습니다.
 - 이 프로젝트에서 사용한 이미지는 모두 [unsplashed](https://unsplash.com/)에서 가져온 이미지입니다.
